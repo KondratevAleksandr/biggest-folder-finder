@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-
-public class Main {
-    public static void main(String[] args) {
-
-    }
-=======
 import java.io.File;
 
 public class Main {
@@ -27,5 +20,4 @@ public class Main {
         }
         return sum;
     }
->>>>>>> 31e00df (div)
 }
